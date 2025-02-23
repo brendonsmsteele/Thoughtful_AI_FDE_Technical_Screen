@@ -9,7 +9,7 @@
 #### 1. Download the script  
 Click on the **Download** button or use the following command:
 ```sh
-curl -O https://raw.githubusercontent.com/brendonsmsteele/Thoughtful_AI_FDE_Technical_Screen/refs/heads/main/example.py
+curl -O https://raw.githubusercontent.com/brendonsmsteele/Thoughtful_AI_FDE_Technical_Screen/refs/heads/main/package_sort.py
 ```
 
 #### 2. Navigate to the directory
