@@ -20,6 +20,6 @@ cd ~/Downloads
 
 #### 3. Run the script
 ```sh
-python example.py
+python3 example.py
 ```
-Note: Use python3 instead of python if your system defaults to an older version.
+Note: Use python3 or python depending on your install.
